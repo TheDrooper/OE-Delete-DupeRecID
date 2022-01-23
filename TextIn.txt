@@ -1,0 +1,6 @@
+Fix RECID 21199, GLAccts already exists with Type 1 ID of Parent "AP" Product " " Inventory Category " " Class " ". (1127)
+Fix RECID 9659, GLAccts already exists with Type 1 ID of Parent "ARCASH" Product " " Inventory Category " " Class " ". (1127)
+Fix RECID 86350, GLAccts already exists with Type 1 ID of Parent "BALOFFSET" Product " " Inventory Category " " Class " ". (1127)
+Fix RECID 21200, GLAccts already exists with Type 1 ID of Parent "DEPOSITS" Product " " Inventory Category " " Class " ". (1127)
+Fix RECID 86355, GLAccts already exists with Type 1 ID of Parent "POSTBALANCE" Product " " Inventory Category " " Class " ". (1127)
+
